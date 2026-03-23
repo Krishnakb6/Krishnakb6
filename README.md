@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Krishna Kiriti
 
-Hi!, I am a Computer Science student with strong interests in machine learning, data analysis, and software systems. Through coursework and independent learning, I have developed practical experience in Python, data science, and modern web technologies. I enjoy building systems that combine data-driven intelligence with real-world applications.
+Hi!, I am a Computer Science student with strong interests in AI, machine learning, data analysis, and software systems. Through coursework and independent learning, I have developed practical experience in Python, data science, and modern web technologies. I enjoy building systems that combine data-driven intelligence with real-world applications.
 
 ## Internship Experience
 
