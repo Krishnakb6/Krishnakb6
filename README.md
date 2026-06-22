@@ -22,11 +22,7 @@ Hi!, I am a Computer Science student with strong interests in AI, machine learni
 
 **SEO Specialist Intern — Krizpay**  
 March 2025 – May 2025  
-Worked on improving website performance, search visibility, and analytics-driven optimization strategies in a startup environment.  
-
-**Frontend Development Intern — VMT Solutions, Hyderabad**  
-December 2025 – January 2026  
-Worked on building user interface components and responsive web design using modern frontend technologies.  
+Worked on improving website performance, search visibility, and analytics-driven optimization strategies in a startup environment.   
 
 ## Research Interest
 
