@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Krishna Kiriti
 
-Hi!, I am a Computer Science student with strong interests in AI, machine learning, data analysis, and software systems. Through coursework and independent learning, I have developed practical experience in Python, data science, and modern web technologies. I enjoy building systems that combine data-driven intelligence with real-world applications.
+Hi!, I am a Computer Science student with strong interests in machine learning, data analysis, and software systems. Through coursework and independent learning, I have developed practical experience in Python, data science, and modern web technologies. I enjoy building systems that combine data-driven intelligence with real-world applications.
 
 ## Internship Experience
 
@@ -24,9 +24,6 @@ Hi!, I am a Computer Science student with strong interests in AI, machine learni
 March 2025 – May 2025  
 Worked on improving website performance, search visibility, and analytics-driven optimization strategies in a startup environment.   
 
-## Research Interest
-
-Currently, I am working on a machine learning project focused on **protein–ligand interaction prediction for anticancer research**. The project involves developing predictive models that analyze molecular interaction data and identify patterns using machine learning algorithms. While the dataset is biological in nature, the primary emphasis of the work is on machine learning techniques such as feature extraction, data preprocessing, and predictive modeling.
 
 ## Leadership and Activities
 
